@@ -56,9 +56,8 @@ La idea es que los usuarios puedan agregar nombres a una lista y luego seleccion
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 **angelolveradev**  
 🔗 [GitHub](https://github.com/angelolveradev)
 
-¡Gracias por visitar este repositorio! 🎁🎉
 
